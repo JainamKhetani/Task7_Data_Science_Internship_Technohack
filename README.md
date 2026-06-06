@@ -385,7 +385,7 @@ The project forms a strong foundation for future:
 
 # 👩‍💻 16. Author
 
-### Khushi Kapatel  
+### Jainam Khetani
 TechnoHacks Data Science Internship
 
 ---
